@@ -1,6 +1,6 @@
 # Springboard Coding Bootcamp Cohort Repo
 
-Welcome to the Springboard Coding Bootcamp Cohort Repo! This open-source repository is dedicated to the collaborative learning experience of our coding bootcamp cohort. Whether you're a current student, alum, or anyone interested in coding, you're invited to contribute, share resources, and learn together.
+Welcome to the Unofficial Springboard Coding Bootcamp Cohort Repo! This open-source repository is dedicated to the collaborative learning experience of our coding bootcamp cohort. Whether you're a current student, alum, or anyone interested in coding, you're invited to contribute, share resources, and learn together.
 
 ## Table of Contents
 
@@ -44,6 +44,21 @@ We encourage you to add your notes, thoughts, and progress to the [developer log
 ## License
 
 This project is licensed under the [MIT License](LICENSE). By contributing to this repository, you agree to abide by the terms of this license.
+
+---
+**Disclaimer: Unofficial Repository**
+
+This Springboard Coding Bootcamp Cohort Repo is an independent and unofficial initiative created by members of the Springboard coding bootcamp community. It is important to note that this repository is not officially endorsed, supported, or affiliated with Springboard or any of its representatives.
+
+The content, opinions, and contributions shared within this repository are solely those of the individual contributors and do not reflect the beliefs, opinions, or official stance of Springboard. The repository is a community-driven space for learning, collaboration, and sharing resources among coding bootcamp students and alumni.
+
+Any information, code, projects, or resources shared in this repository are intended for educational and collaborative purposes. Contributors are responsible for ensuring the accuracy, quality, and adherence to ethical standards of the content they contribute.
+
+Please be aware that Springboard, as an organization, has its own official communication channels, resources, and guidelines for its students and community members. For official information, please refer to Springboard's official resources and communications.
+
+By participating in this repository, you acknowledge and agree that it is an independent endeavor and that any contributions you make are subject to the guidelines set forth in this repository's documentation.
+
+Thank you for your understanding and for contributing positively to our community-driven initiative.
 
 ---
 
