@@ -14,3 +14,8 @@
 
 Continue to update this log regularly to track your journey and inspire others.
 
+---
+**Michael Lambert Jr**
+#### [8/21/23]
+- **Initialization**: Initialized this repo with the basis towards a static Javascript project.
+
