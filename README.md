@@ -18,7 +18,7 @@ This repository is a hub for code, notes, and resources related to the Springboa
 
 To get started with the repository, follow these steps:
 
-1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/your-username/springboard-cohort.git`.
+1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/3ichael7ambert/Springboard-JS-OpenSource.git`.
 
 2. **Set Up**: If applicable, follow any specific setup instructions mentioned in project folders.
 
